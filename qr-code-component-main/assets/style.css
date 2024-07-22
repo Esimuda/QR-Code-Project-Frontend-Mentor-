@@ -1,0 +1,40 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+html {
+  background-color: hsl(212, 45%, 89%);
+}
+
+body {
+  background-color: hsl(0, 0%, 100%);
+  box-sizing: border-box;
+  margin: 100px 600px;
+  border-radius: 20px;
+  justify-content: center;
+  align-items: center;
+  max-width: 400px;
+  padding: 20px;
+}
+
+img {
+  width: 100%;
+  border-radius: 20px;
+}
+
+#Big {
+  font-size: 30px;
+  padding: 20px 50px;
+  color: hsl(218, 44%, 22%);
+}
+
+#small {
+  font-size: 15px;
+  padding: 0px 50px;
+  color: hsl(220, 15%, 55%);
+}
+
+div {
+  padding: 10px 50px;
+}
